@@ -1,4 +1,4 @@
-#Email Checker
+# Email Checker
 
 Cet outil determine si l'adresse email appartient à un compte utilisateur 
 du site Gens de Confiance.
